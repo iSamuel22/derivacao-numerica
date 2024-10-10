@@ -75,8 +75,7 @@ Para executar este projeto, você precisará de:
 - **Cálculo de Derivadas Trigonométricas**: O método de "Expressões Derivadas - Representação" **não realiza cálculos de derivadas trigonométricas**, pois a implementação atual pode ser complexa e imprecisa. Recomenda-se utilizar outras abordagens para funções trigonométricas.
 
 ## 👤 Autoria
-Desenvolvido por:
-- **Samuel I. Pena**
+Desenvolvido por _Samuel Ildebrando Pena._
 
 ## 🤝 Contribuições
 
