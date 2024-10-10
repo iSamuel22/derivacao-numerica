@@ -2,22 +2,24 @@
 
 # 📊 Derivação Numérica em Java
 
-Este projeto é uma aplicação Java que implementa a derivação numérica de funções matemáticas, utilizando métodos de diferenciação. A interface gráfica é construída com Swing, permitindo ao usuário selecionar métodos de derivação, inserir funções e visualizar os resultados.
+Este projeto é uma aplicação Java que implementa a derivação numérica de funções matemáticas, utilizando métodos de diferenciação. A interface gráfica é construída com Swing, permitindo ao usuário selecionar métodos de derivação, inserir funções e visualizar os resultados. Este projeto foi desenvolvido no contexto da disciplina de **Matemática Computacional**.
 
 ## 📑 Índice
+
 1. [Descrição do Projeto](#descrição-do-projeto)
 2. [Funcionalidades](#funcionalidades)
 3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 4. [Pré-requisitos](#pré-requisitos)
 5. [Instalação](#instalação)
 6. [Como Usar](#como-usar)
-7. [Autoria](#autoria)
-8. [Contribuições](#contribuições)
-9. [Licença](#licença)
+7. [Limitações](#limitações)
+8. [Autoria](#autoria)
+9. [Contribuições](#contribuições)
+10. [Licença](#licença)
 
 ## 📝 Descrição do Projeto
 
-Este projeto foi desenvolvido para fornecer uma ferramenta prática e interativa para o cálculo de derivadas numéricas. Os usuários podem escolher entre diferentes métodos de derivação, como diferença finita e interpolação numérica. A aplicação é útil para estudantes e profissionais que desejam explorar conceitos de cálculo diferencial.
+Este projeto foi desenvolvido para fornecer uma ferramenta prática e interativa para o cálculo de derivadas numéricas. Os usuários podem escolher entre diferentes métodos de derivação, como diferença finita e interpolação numérica. A aplicação é útil para estudantes e profissionais que desejam explorar conceitos de cálculo diferencial. Este projeto pode ser visto como uma continuação de um projeto anterior, com melhorias e novas funcionalidades.
 
 ## ⚙️ Funcionalidades
 
@@ -26,7 +28,7 @@ Este projeto foi desenvolvido para fornecer uma ferramenta prática e interativa
   - Derivada por Diferença Finita (Taylor)
   - Segunda Derivada por Diferença Finita
   - Expressões Derivadas - Representação
-  
+    
 - **Entrada de Funções**: O usuário pode digitar funções matemáticas utilizando a notação apropriada (apenas números e a variável `x`).
 - **Cálculo de Derivadas**: Realiza cálculos para a derivada primeira e segunda das funções inseridas.
 - **Interface Gráfica**: Apresenta uma interface intuitiva para facilitar a interação do usuário com a aplicação.
@@ -39,7 +41,6 @@ Este projeto foi desenvolvido para fornecer uma ferramenta prática e interativa
 - **Java Math**: Utilizada para operações matemáticas como potência e funções exponenciais.
 
 ## 📝 Pré-requisitos
-
 Para executar este projeto, você precisará de:
 - JDK 11 ou superior instalado.
 - IDE de sua escolha (ex: IntelliJ IDEA, Eclipse, NetBeans).
@@ -69,8 +70,11 @@ Para executar este projeto, você precisará de:
 4. **Calcular**: Clique no botão "Calcular" para realizar a derivação.
 5. **Ver Resultados**: Os resultados aparecerão na área de texto abaixo.
 
-## 👤 Autoria
+## ⚠️ Limitações
 
+- **Cálculo de Derivadas Trigonométricas**: O método de "Expressões Derivadas - Representação" **não realiza cálculos de derivadas trigonométricas**, pois a implementação atual pode ser complexa e imprecisa. Recomenda-se utilizar outras abordagens para funções trigonométricas.
+
+## 👤 Autoria
 Desenvolvido por:
 - **Samuel I. Pena**
 
