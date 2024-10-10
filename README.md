@@ -12,7 +12,7 @@ Este projeto é uma aplicação Java que implementa a derivação numérica de f
 4. [Pré-requisitos](#-pré-requisitos)
 5. [Instalação](#-instalação)
 6. [Como Usar](#-como-usar)
-7. [Limitações](#-limitações)
+7. [Limitações](#%EF%B8%8F-limitações)
 8. [Autoria](#-autoria)
 9. [Contribuições](#-contribuições)
 10. [Licença](#-licença)
