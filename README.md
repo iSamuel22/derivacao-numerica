@@ -6,16 +6,16 @@ Este projeto é uma aplicação Java que implementa a derivação numérica de f
 
 ## 📑 Índice
 
-1. [Descrição do Projeto](#descrição-do-projeto)
-2. [Funcionalidades](#funcionalidades)
-3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-4. [Pré-requisitos](#pré-requisitos)
-5. [Instalação](#instalação)
-6. [Como Usar](#como-usar)
-7. [Limitações](#limitações)
-8. [Autoria](#autoria)
-9. [Contribuições](#contribuições)
-10. [Licença](#licença)
+1. [Descrição do Projeto](#-descrição-do-projeto)
+2. [Funcionalidades](#%EF%B8%8F-funcionalidades)
+3. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+4. [Pré-requisitos](#-pré-requisitos)
+5. [Instalação](#-instalação)
+6. [Como Usar](#-como-usar)
+7. [Limitações](#-limitações)
+8. [Autoria](#-autoria)
+9. [Contribuições](#-contribuições)
+10. [Licença](#-licença)
 
 ## 📝 Descrição do Projeto
 
