@@ -49,7 +49,7 @@ Para executar este projeto, você precisará de:
 ## 🚀 Instalação
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/smuelp/derivacao-numerica.git
+   git clone https://github.com/iSamuel22/derivacao-numerica.git
    ```
 
 2. **Navegue até o diretório do projeto:**
